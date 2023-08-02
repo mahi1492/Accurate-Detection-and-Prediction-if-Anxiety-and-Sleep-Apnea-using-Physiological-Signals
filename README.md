@@ -38,6 +38,7 @@ The model considered in this study has a total of 50,909 parameters, which are t
 # Performance Evaluation 
 ANXIETY 
 1. Confusion Matrix
+
 ![image](https://github.com/mahi1492/Accurate-Detection-and-Prediction-if-Anxiety-and-Sleep-Apnea-using-Physiological-Signals/assets/83654923/0bd0cd13-3458-44a3-9cf2-73e769a9144f)
 
 Accuracy = 0.957
@@ -47,6 +48,7 @@ F1 Score = 0.920
 
 SLEEP APNEA 
 1. Confusion Matrix
+
 ![image](https://github.com/mahi1492/Accurate-Detection-and-Prediction-if-Anxiety-and-Sleep-Apnea-using-Physiological-Signals/assets/83654923/905b7f7d-b004-4e64-bcdc-806813e98c1b)
 
 Accuracy = 0.99009
